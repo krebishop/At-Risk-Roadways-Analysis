@@ -17,4 +17,7 @@ Note: This code and data are best suited for areas within the State of Oregon. T
 
 Coordinate System: The streams and roadways feature classes utilize the same PCS. NAD 1983 Oregon Statewide Lambert (Intl Feet)
 
+Data Sources: Roadways, Geographic Information Services Unit, Oregon Department of Transportation (ODOT).      https://spatialdata.oregonexplorer.info/geoportal/details;id=12d99bf70d064391b5f487ed6bce4133
+Streams, Statewide Streams, Oregon Department of Forestry. https://www.oregon.gov/odf/aboutodf/Pages/mapsdata.aspx
+
 Contact Information: Kaitlyn Bishop, bishopka@oregonstate.edu
