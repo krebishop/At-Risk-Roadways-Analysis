@@ -11,7 +11,7 @@ import arcpy
 
 # Sets the current worskpace, which will need to be changed to match were the streams and roads data are located. The workspace is where data are
 # located and new feature classes will be added to. Overwritting of duplicates in the workspace is allowed.
-arcpy.env.workspace = "C:/Users/krebi/OneDrive - Oregon State University/Desktop/GEOG 562/Final project/Final project Data/Default.gdb"
+arcpy.env.workspace = "C:/Users/.../Default.gdb"
 arcpy.env.overwriteOutput = True
 
 # Creates variables for the streams and roadways feature classes in our workspace
